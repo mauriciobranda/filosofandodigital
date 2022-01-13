@@ -1,4 +1,6 @@
+- Filosofando Digital -
 
+Projetinho basico que gera frases a partir de uma base estatica em .js
 ### `npm start`
 
 Runs the app in the development mode.\
